@@ -65,12 +65,14 @@ body {
   opacity: 0;
   animation: fade-in-top ease-in-out 1s forwards;
   animation-delay: 0.5s;
+  font-family: 'Roboto', sans-serif;
 }
 
 .profile-content p {
   opacity: 0;
   animation: fade-in-right ease-in-out 1s forwards;
   animation-delay: 0.8s;
+  font-family: 'Roboto', sans-serif;
 }
 
 .profile-footer {
