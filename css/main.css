@@ -43,6 +43,7 @@ body {
       endColorstr='#4000FF',
       GradientType=1
     ); /* ie6-9 */
+  overflow: hidden;
 }
 
 #particles-js {
